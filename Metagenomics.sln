@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Metagenomics", "Metagenomics\Metagenomics.pyproj", "{E56114CF-1BC3-4C06-83F6-42192ACB6652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56114CF-1BC3-4C06-83F6-42192ACB6652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56114CF-1BC3-4C06-83F6-42192ACB6652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA86EFE-9B27-4EFD-B95D-6210A0162147}
+	EndGlobalSection
+EndGlobal
